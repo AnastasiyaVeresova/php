@@ -490,3 +490,5 @@ final/
 fpm/
 socket/
 /README
+../vendor/
+vendor/
